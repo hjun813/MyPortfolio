@@ -26,7 +26,7 @@ const Home: React.FC = () => {
           className="flex-1 space-y-6 text-center lg:text-left"
         >
           <div className="inline-block px-3 py-1 rounded-full bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 text-sm font-medium">
-            안녕하세요! 만나서 반갑습니다.
+            안녕하세요! 만나서 반갑습니다!
           </div>
           <h1 className="text-4xl lg:text-6xl font-bold text-slate-900 dark:text-white leading-tight">
             저는 <span className="text-primary-600 dark:text-primary-400">{HERO_INFO.name}</span>입니다. <br />

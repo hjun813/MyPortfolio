@@ -10,11 +10,11 @@ import carrion2 from './assets/carrion_2.png';
 import carrion3 from './assets/carrion_3.png';
 import carrion4 from './assets/carrion_4.png';
 import carrion5 from './assets/carrion_5.png';
-import makeFutureImg from './assets/makeFuture_main.png';
-import makeFuture2 from './assets/makeFuture_2.png';
-import makeFuture3 from './assets/makeFuture_3.png';
-import makeFuture4 from './assets/makeFuture_4.png';
-import makeFuture5 from './assets/makeFuture_5.png';
+import makeFutureImg from './assets/makefuture_main.png';
+import makeFuture2 from './assets/makefuture_2.png';
+import makeFuture3 from './assets/makefuture_3.png';
+import makeFuture4 from './assets/makefuture_4.png';
+import makeFuture5 from './assets/makefuture_5.png';
 import React from 'react';
 
 export const HERO_INFO = {

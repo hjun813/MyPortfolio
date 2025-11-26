@@ -4,7 +4,7 @@ React, TypeScript, Tailwind CSS로 제작한 개인 포트폴리오 웹사이트
 반응형 디자인, 다크 모드, 인터랙티브한 UI를 통해 사용자에게 최적의 경험을 제공합니다.
 
 ## 🚀 배포 링크
-[https://make-future.vercel.app](https://make-future.vercel.app) (예시 링크, 실제 배포 URL로 변경 필요)
+[[https://my-portfolio-b4t5.vercel.app](https://my-portfolio-b4t5.vercel.app/#/)] (예시 링크, 실제 배포 URL로 변경 필요)
 
 ## 🛠 기술 스택 (Tech Stack)
 
